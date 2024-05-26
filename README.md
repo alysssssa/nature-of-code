@@ -1,2 +1,2 @@
-# nature-of-code
-a walkthrough of the nature of code
+## nature-of-code
+a walkthrough of [the Nature of Code](https://natureofcode.com/)
